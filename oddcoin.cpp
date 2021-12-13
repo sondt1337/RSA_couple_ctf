@@ -1,4 +1,4 @@
-/* Nước "Sơn đẹp trai" có các đồng xu mệnh giá sau: 1, 3, 5, 10, 30, 50, 100, 300, 500, 
+/* Quốc gia "Sondz" có các đồng xu mệnh giá sau: 1, 3, 5, 10, 30, 50, 100, 300, 500, 
 1000, 3000, 5000, 10 000, 30 000 và 50 000 đồng. 
 Ngân hàng ban hành thêm một loại xu mới với mệnh giá x đồng. 
 Để trả đúng t đồng, cần tối thiểu bao nhiêu đồng xu? */
