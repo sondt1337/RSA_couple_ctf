@@ -101,7 +101,7 @@ int main()
     FastInput();
     Prepair();
     int test;
-    cin >> test;
+    cin >> test; 
     while (test--)
     {
         ReadInput();
